@@ -1,5 +1,5 @@
 # Bezier curve
-[Assembler MIPS-32] The program draws quadratic Bezier curve. 
+Assembler MIPS-32 program that draws quadratic Bezier curve.
 # Joke
 Using block input, this program requires such a small amount of memory, that your smart vacuum cleaner could easely handle it.
 (It only needs MIPS in it actually.)
