@@ -5,7 +5,7 @@ Assembler MIPS-32
   - http://courses.missouristate.edu/KenVollmar/mars/
 - Download Bezier_Curve.asm
 - Place (Create) image_in.bmp in the MARS MIPS simulator directory 
-- Using MARS MIPS simulator, run Bezier_Curve.asm
+- Using MARS MIPS simulator, run Bezier_Curve.asm and follow commands
 - As a result image_out.bmp will be created
 # Problems faced during project development
 - How to make fractional arithmetics in MIPS?
