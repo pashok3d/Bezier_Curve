@@ -19,3 +19,6 @@ Assembler MIPS-32
 - Runtime exception at "adress": fetch address not aligned on word boundary "adress". 
 Program doesn't want to read FileSize (or DataOffset, itc.) from header (which was copied in ram "buffer") using lw. 
   - Solution: copied FileSize located in "buffer" is probably at the adress which is not divisible by 4 bytes, so we need to add .align 2 in .data section before "buffer" declaration.
+# FAQ
+- Can't pass my coordinates to the program properly.
+  - Press Enter after each number you passing. 
