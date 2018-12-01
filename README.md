@@ -1,5 +1,8 @@
 # Bezier curve
-Assembler MIPS-32
+[Assembler MIPS-32] The program draws quadratic Bezier curve. 
+# Joke
+Using block input, this program requires such a small amount of memory, that your smart vacuum cleaner could easely handle it.
+(It only needs MIPS in it actually.)
 # How to run
 - Download MARS MIPS simulator 
   - http://courses.missouristate.edu/KenVollmar/mars/
